@@ -1,6 +1,6 @@
 # Table of contents
 
-* [資訊科學-自學路](README.md)
+* [資訊科學-自學者筆記](README.md)
 * [電腦科學各領域簡介](jie.md)
 * [軟體](software/README.md)
   * [大數據](software/software/README.md)
