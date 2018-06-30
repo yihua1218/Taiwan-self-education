@@ -2,6 +2,8 @@
 
 * [資訊科學-自學者筆記](README.md)
 * [電腦科學各領域簡介](jie.md)
+* [Github](github/README.md)
+  * [學習資源](github/yuan.md)
 * [軟體](software/README.md)
   * [大數據](software/software/README.md)
     * [雲端運算](software/software/duan-suan.md)
