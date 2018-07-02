@@ -10,6 +10,7 @@
 
 * [機器學習基石](https://youtu.be/nQvpFSMPhr0)-林軒田老師
 * [機器學習](https://www.coursera.org/learn/machine-learning)-Andrew Ng
+* [莫煩Python](https://morvanzhou.github.io/tutorials/)-莫煩
 
 #### LEVEL2
 
